@@ -114,6 +114,10 @@ namespace CSharp_Class_1
             Console.WriteLine("asd".ToUpper());
             Console.WriteLine("asd".ToLower());
 
+            Console.WriteLine("Hello " + "World!");
+            Console.WriteLine("1" + "2");
+            Console.WriteLine(1 + "2");
+
             var nev = "Dani";
             var napszak = "estét";
             Console.WriteLine("Hello {0}! Szép {1}!\n", nev, napszak);
